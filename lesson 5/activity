@@ -1,0 +1,8 @@
+#ACP
+#summer times
+temp=float(input("Enter the temperature:"))
+if temp>30:
+    print("It is a summer season")
+else:
+    print("It is not a summer season")
+
