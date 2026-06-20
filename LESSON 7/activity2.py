@@ -5,4 +5,4 @@ print(a & b)  # bitwise AND
 print(a | b)  # bitwise OR
 print(a ^ b)  # bitwise XOR
 print(~a)     # bitwise NOT
-print(~b)     # bitwise NOT
+print(~b)     # bitwise NOT 
